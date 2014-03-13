@@ -1,4 +1,4 @@
-# glitterbomb theme
+# Glitterbomb Atom Theme
 
 A glitter explosion in your Atom text editor.
 
