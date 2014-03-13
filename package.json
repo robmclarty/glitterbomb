@@ -1,7 +1,7 @@
 {
   "name": "glitterbomb",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A glitter explosion in your Atom text editor.",
   "repository": "https://github.com/robmclarty/glitterbomb",
   "license": "MIT",
